@@ -11,8 +11,8 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
 <hr>
 <div style="display:flex;flex-direction:columns;align-items:center;">
-🛠️ Languages and Toooooooools
-<div style="margin: auto; display:flex; justify-content:center; gap: 20px">
+<p align="center"> 🛠️ Languages and Toooooooools </p>
+<div align="center" style="display:flex; justify-content:center; gap: 20px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -29,7 +29,16 @@ Here are some ideas to get you started: -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</a></p>
+<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
+</a></p>
+<!-- <p align="center"><a href="https://github-readme-stats.vercel.app/api/wakatime?username=LeoLChalot" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoLChalot" alt="Wakatime stats"/>
+</a></p>  -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
