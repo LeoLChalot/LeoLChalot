@@ -11,8 +11,6 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
 
-
-
 ---
 
 <div style="display:flex;flex-direction:columns;align:center;">
@@ -41,9 +39,7 @@ Here are some ideas to get you started: -->
 <p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
 </a></p>
-<!-- <p align="center"><a href="https://github-readme-stats.vercel.app/api/wakatime?username=LeoLChalot" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoLChalot" alt="Wakatime stats"/>
-</a></p>  -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="bread.gif" />
+
 </div>
