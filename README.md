@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started: -->
 
-
+<img align="right" alt="Just an old Penguin" width="200" src="Oldman.gif" />
 - 🔭 I am currently working at SafeBear
 - 🌱 I’m currently learning SvelteJs and Data Analyze
 - 💬 Ask me about something fun.
@@ -40,7 +40,7 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
 </a></p>
 
-<img align="left" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
-<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="bread.gif" />
+<img align="left" alt="Just a Penguin chillin by the fire." width="200" src="Fire.gif" />
+<img align="right" alt="Just a Penguin drawing something" width="200" src="bread.gif" />
 
 </div>
