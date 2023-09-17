@@ -3,14 +3,19 @@
 
 Here are some ideas to get you started: -->
 <img align="right" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
+
 - 🔭 I am currently working at SafeBear
 - 🌱 I’m currently learning SvelteJs and Data Analyze
 - 💬 Ask me about Schrödinger's cat (I found it, but I won't tell you what it looked like).
 - 📫 How to contact me: Did you say "contact" ? 
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
-<hr>
-<div style="display:flex;flex-direction:columns;align-items:center;">
+
+
+
+---
+
+<div style="display:flex;flex-direction:columns;align:center;">
 <p align="center"> 🛠️ Languages and Toooooooools </p>
 <div align="center" style="display:flex; justify-content:center; gap: 20px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
