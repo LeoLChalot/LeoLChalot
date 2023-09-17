@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
 
-- <div style="margin: auto; display:flex; justify-content:center; gap: 20px">
+<div style="margin: auto; display:flex; justify-content:center; gap: 20px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp; -->
@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-<div style="margin: auto; display:flex; justify-content:center;">
+
   [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
+
 
