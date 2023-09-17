@@ -9,6 +9,7 @@ Here are some ideas to get you started: -->
 - 📫 How to contact me: Did you say "contact" ? 
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
+<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
 <hr>
 <div style="display:flex;flex-direction:columns;align-items:center;">
 <p align="center"> 🛠️ Languages and Toooooooools </p>
