@@ -2,14 +2,13 @@
 **LeoLChalot/LeoLChalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-
+<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
 - 🔭 I am currently working at SafeBear
 - 🌱 I’m currently learning SvelteJs and Data Analyze
 - 💬 Ask me about Schrödinger's cat (I found it, but I won't tell you what it looked like).
 - 📫 How to contact me: Did you say "contact" ? 
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
-<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
 <hr>
 <div style="display:flex;flex-direction:columns;align-items:center;">
 <p align="center"> 🛠️ Languages and Toooooooools </p>
