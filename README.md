@@ -3,13 +3,14 @@
 
 Here are some ideas to get you started: -->
 
-<img align="right" alt="Just an old Penguin" width="200" src="Oldman.gif" />
-- 🔭 I am currently working at SafeBear
-- 🌱 I’m currently learning SvelteJs and Data Analyze
-- 💬 Ask me about something fun.
-- 📫 How to contact me: Did you say "contact" ? 
-- 😄 Pronouns: Béluga
-- ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
+<img align="right" alt="Just an old Penguin" width="140" src="OldMan.gif" />
+<p align="left">🔭 I am currently working at SafeBear</p>
+<p align="left">🌱 I’m currently learning SvelteJs and Data Analyze</p>
+<p align="left">💬 Ask me about something fun.</p>
+<p align="left">📫 How to contact me: Did you say "contact" ? </p>
+<p align="left">😄 Pronouns: Béluga</p>
+<p align="left">⚡ Fun fact: I'm starting to get Mr. Elastic's white hair</p>
+
 
 ---
 
