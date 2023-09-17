@@ -2,7 +2,7 @@
 **LeoLChalot/LeoLChalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<img align="right" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
+
 
 - 🔭 I am currently working at SafeBear
 - 🌱 I’m currently learning SvelteJs and Data Analyze
@@ -40,6 +40,7 @@ Here are some ideas to get you started: -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
 </a></p>
 
+<img align="left" alt="Just a Penguin chillin by the fire." width="350" src="Fire.gif" />
 <img align="right" alt="Just a Penguin chillin by the fire." width="350" src="bread.gif" />
 
 </div>
