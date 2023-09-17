@@ -10,6 +10,7 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
 <hr>
+<div style="display:flex;flex-direction:columns;align-items:center;">
 🛠️ Languages and Toooooooools
 <div style="margin: auto; display:flex; justify-content:center; gap: 20px">
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; -->
@@ -30,9 +31,5 @@ Here are some ideas to get you started: -->
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-<div>
-  
-</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
+</div>
