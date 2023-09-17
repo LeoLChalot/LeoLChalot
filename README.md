@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I am currently working at SafeBear
 - 🌱 I’m currently learning SvelteJs and Data Analyze
-- 💬 Ask me about Schrödinger's cat (I found it, but I won't tell you what it looked like).
+- 💬 Ask me about something fun.
 - 📫 How to contact me: Did you say "contact" ? 
 - 😄 Pronouns: Béluga
 - ⚡ Fun fact: I'm starting to get Mr. Elastic's white hair
