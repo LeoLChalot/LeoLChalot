@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 <p align="left">💬 Ask me about something fun.</p>
 <p align="left">📫 How to contact me: Did you say "contact" ? </p>
 <p align="left">😄 Pronouns: Béluga</p>
-<p align="left">⚡ Fun fact: I'm starting to get Mr. Elastic's white hair</p>
+
 
 
 ---
