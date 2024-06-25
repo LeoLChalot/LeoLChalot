@@ -30,11 +30,13 @@ Here are some ideas to get you started: -->
 <p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
 </a></p>
+  <p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+  <img src="[https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)" alt="GitHub Streak"/>
+</a></p>
 <img align="left" alt="Just a Penguin chillin by the fire." width="200" src="Fire.gif" />
 <img align="right" alt="Just a Penguin drawing something" width="200" src="bread.gif" />
 </div>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 
