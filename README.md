@@ -33,7 +33,7 @@ Here are some ideas to get you started: -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
 </div>
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
   <img src="https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </a></p>
