@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 <p align="left">📫 How to contact me: Did you say "contact" ? </p>
 <p align="left">😄 Pronouns: Béluga</p>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
 
 ---
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started: -->
 <img align="left" alt="Just a Penguin chillin by the fire." width="200" src="Fire.gif" />
 <img align="right" alt="Just a Penguin drawing something" width="200" src="bread.gif" />
 </div>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LeoLChalot&theme=tokyonight&locale=fr&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 
