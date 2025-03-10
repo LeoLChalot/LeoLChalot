@@ -1,44 +1,42 @@
 <!--
 **LeoLChalot/LeoLChalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
+Here are some ideas to get you started:
+-->
 
-<img align="right" alt="Just an old Penguin" width="140" src="OldMan.gif" />
-<p align="left">🔭 I am currently working at SafeBear</p>
-<p align="left">🌱 I’m currently learning SvelteJs and Data Analyze</p>
-<p align="left">💬 Ask me about something fun.</p>
-<p align="left">📫 How to contact me: Did you say "contact" ? </p>
-<p align="left">😄 Pronouns: Béluga</p>
-
-
+### About Me
+- 🔭 I am currently working at SafeBear
+- 🌱 I’m currently learning SvelteJs and Data Analysis
+- 💬 Ask me about something fun.
 
 ---
 
-<div style="display:flex;flex-direction:columns;align:center;">
-<p align="center"> 🛠️ Languages and Toooooooools </p>
-<div align="center" style="display:flex; justify-content:center; gap: 20px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-</div>
-<p align="center"><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLChalot&layout=compact&theme=vision-friendly-dark" alt="Wakatime stats"/>
-</a></p>
-  <p align="center"><a href="https://github.com/denvercoder1/github-readme-streak-stats" target="_blank">
+### 🛠️ Languages and Tools
 
-</a></p>
-<img align="left" alt="Just a Penguin chillin by the fire." width="200" src="Fire.gif" />
-<img align="right" alt="Just a Penguin drawing something" width="200" src="bread.gif" />
-</div>
+Here are the tools and languages I use:
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=LeoLChalot)](https://git.io/streak-stats)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
+[![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-003545?style=flat&logo=mysql&logoColor=white)](#)
+[![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](#)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](#)
+[![SCSS](https://img.shields.io/badge/-SCSS-C6538C?style=flat&logo=sass&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](#)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)](#)
+[![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat&logo=symfony&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+[![PL/SQL](https://img.shields.io/badge/-PLSQL-F80000?style=flat&logo=oracle&logoColor=white)](#)
 
+---
 
+### 📊 GitHub Stats
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LeoLChalot)](https://git.io/streak-stats)
