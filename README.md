@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 Here are the tools and languages I use:
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](#)
 [![Material UI](https://img.shields.io/badge/-Material_UI-007FFF?style=flat&logo=mui&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
