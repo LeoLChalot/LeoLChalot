@@ -39,4 +39,4 @@ Here are the tools and languages I use:
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LeoLChalot&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=LeoLChalot&theme=tokyonight-duo&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
